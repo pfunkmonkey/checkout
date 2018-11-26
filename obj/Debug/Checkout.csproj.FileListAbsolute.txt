@@ -1,0 +1,5 @@
+C:\Users\faisal\Source\Repos\Checkout\Checkout\bin\Debug\Checkout.dll
+C:\Users\faisal\Source\Repos\Checkout\Checkout\bin\Debug\Checkout.pdb
+C:\Users\faisal\Source\Repos\Checkout\Checkout\obj\Debug\Checkout.csproj.CoreCompileInputs.cache
+C:\Users\faisal\Source\Repos\Checkout\Checkout\obj\Debug\Checkout.dll
+C:\Users\faisal\Source\Repos\Checkout\Checkout\obj\Debug\Checkout.pdb
